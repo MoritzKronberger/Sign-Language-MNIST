@@ -1,6 +1,7 @@
 # Sign-Language-MNIST
-Quick test of a simple CNN on the Sign Language MNIST dataset
 
-The CNN reaches a validation accuracy of 90%+ after just one epoch of training.
+Test of a simple CNNs on the Sign Language MNIST dataset
 
-Check out the [jupyter notebook](/Sign_Language_MNIST.ipynb) for more detail.
+The [CNN](/Sign_Language_MNIST_Models.ipynb) typically reaches an accuracy of 95%+ on the MNIST test data after short training.
+
+The CNNs can be used to classify Sign Language from a live webcam feed in this [demo](/Sign_Language_MNIST_Demo.ipynb).
